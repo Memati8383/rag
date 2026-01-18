@@ -97,4 +97,4 @@ python main.py chat
 
 ---
 
-_Geliştirici: Antigravity AI_
+_Geliştirici: Memati8383_
